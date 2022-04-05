@@ -133,6 +133,19 @@ const data = {
 			weight: "450gr",
 			type: "İç Fıstık",
 		},
+		{
+			name: "Kavrulmuş Premium Antep Fıstığı 1 Kg",
+			category: "Fıstık",
+			image: "/assets/product/kvryatikcapraz.jpg",
+			price: 154,90,
+			countInStock: 12,
+			brand: "Alâ Fıstık",
+
+			description: "İyi fıstık",
+			ingredients: ["Karbonhidrat: 10gr", "Protein: 10gr", "Yağ: 10gr", "Tuz içerir"],
+			weight: "1000gr",
+			type: " Kavrulmuş Fıstık",
+		},
 	],
 };
 export default data;
