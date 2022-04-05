@@ -333,7 +333,7 @@ export default function HomeScreen() {
 								<Link to="#">
 									<i class="fa fa-facebook"></i>
 								</Link>
-								<a href="https://www.instagram.com/alafistik/">
+								<a href="https://www.instagram.com/alafistik/" target="_blank">
 									<i class="fa fa-instagram"></i>
 								</a>
 								<Link to="#">
