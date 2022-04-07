@@ -25,7 +25,7 @@ export default function HomeScreen() {
 											data-wow-duration="1.5s"
 										>
 											Fıstık
-											<br /> Pİstachio 
+											<br /> Pistachio 
 										</h1>
 									</div>
 								</div>
