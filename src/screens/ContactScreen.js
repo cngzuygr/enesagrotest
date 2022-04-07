@@ -17,14 +17,14 @@ export default function ContactScreen() {
 												data-wow-duration="2s"
 												data-wow-delay=".7s"
 											>
-												Enes Agro Gıda
+												Enes Agro Gıda Tarım Ürünleri İç ve Dış Ticaret Ltd. Şti.
 											</h4>
 											<h1
 												className="hero-lead wow fadeInLeft"
 												data-wow-duration="1.5s"
 											>
 												Fıstık
-												<br /> Her Çeşit Kuruyemiş
+												<br /> Pistachio
 											</h1>
 										</div>
 									</div>
