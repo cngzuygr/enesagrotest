@@ -330,10 +330,10 @@ export default function HomeScreen() {
 					<div class="zerogrid bottom-footer">
 						<div class="row">
 							<div class="bottom-social">
-								<a href="https://www.facebook.com/enesagrogida" target="_blank">www.enesagrogida.com</a>
+								<a href="https://www.facebook.com/enesagrogida" target="_blank"></a>
 									<i class="fa fa-facebook"></i>
 								</a>
-								<a href="https://www.instagram.com/alafistik/" target="_blank">www.enesagrogida.com</a>
+								<a href="https://www.instagram.com/alafistik/" target="_blank"></a>
 									<i class="fa fa-instagram"></i>
 								</a>
 								<Link to="#">
