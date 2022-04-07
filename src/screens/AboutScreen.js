@@ -23,7 +23,7 @@ export default function AboutScreen() {
 											data-wow-duration="1.5s"
 										>
 											Fıstık
-											<br /> Her Çeşit Kuruyemiş
+											<br /> Pistachio
 										</h1>
 									</div>
 								</div>
