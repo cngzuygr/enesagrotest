@@ -18,14 +18,14 @@ export default function HomeScreen() {
 											data-wow-duration="2s"
 											data-wow-delay=".7s"
 										>
-											Enes Agro Gıda
+											Enes Agro Gıda Tarım Ürünleri İç ve Dış Ticaret Ltd. Şti.
 										</h4>
 										<h1
 											class="hero-lead wow fadeInLeft"
 											data-wow-duration="1.5s"
 										>
 											Fıstık
-											<br /> Her Çeşit Kuruyemiş
+											<br /> Pİstachio 
 										</h1>
 									</div>
 								</div>
