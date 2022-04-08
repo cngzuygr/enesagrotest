@@ -17,7 +17,7 @@ const data = {
 		{
 			name: "Boz İç Fıstık 1 kg",
 			category: "Fıstık",
-			image: "/assets/product/boziccapraz.jpg",
+			image: "/assets/product/boziccapraz.JPG",
 			price: 290,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
@@ -31,7 +31,7 @@ const data = {
 		{
 			name: "Meverdi İç Fıstık 1 kg",
 			category: "Fıstık",
-			image: "/assets/product/meverdicapraz.jpg",
+			image: "/assets/product/meverdicapraz.JPG",
 			price: 260,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
@@ -45,7 +45,7 @@ const data = {
 		{
 			name: "Kırmızı İç Fıstık 1 kg",
 			category: "Fıstık",
-			image: "/assets/product/kirmizicapraz.jpg",
+			image: "/assets/product/kirmizicapraz.JPG",
 			price: 240,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
@@ -59,7 +59,7 @@ const data = {
 		{
 			name: "Ağaç Altı Kuru Kırmızı Fıstık 1 kg",
 			category: "Fıstık",
-			image: "/assets/product/bengcapraz",
+			image: "/assets/product/bengcapraz.JPG",
 			price: 110,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
@@ -73,7 +73,7 @@ const data = {
 		{
 			name: "Pirinç İç Fıstık 1 kg",
 			category: "Fıstık",
-			image: "/assets/product/pirinccapraz.jpg",
+			image: "/assets/product/pirinccapraz.JPG",
 			price: 290,
 			countInStock: 100,
 			brand: "Alâq Fıstık",
@@ -87,7 +87,7 @@ const data = {
 		{
 			name: "File İç Fıstık 1 kg",
 			category: "Fıstık",
-			image: "/assets/product/filecapraz.jpg",
+			image: "/assets/product/filecapraz.JPG",
 			price: 290,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
@@ -102,7 +102,7 @@ const data = {
 		{
 			name: "Boz Toz İç Fıstık 1 kg",
 			category: "Fıstık",
-			image: "/assets/product/anteptozcapraz.jpg",
+			image: "/assets/product/anteptozcapraz.JPG",
 			price: 220,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
@@ -116,7 +116,7 @@ const data = {
 		{
 			name: "Kavrulmuş Naturel Fıstık 1 kg",
 			category: "Fıstık",
-			image: "/assets/product/kvrantepyatik2.jpg",
+			image: "/assets/product/kvrantepyatik2.JPG",
 			price: 124,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
