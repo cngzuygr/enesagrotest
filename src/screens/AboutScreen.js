@@ -186,12 +186,12 @@ export default function AboutScreen() {
 					<div className="zerogrid bottom-footer">
 						<div className="row">
 							<div className="bottom-social">
-								<a href="https://www.facebook.com/enesagrogida/" target="_blank">
+								<Link to="https://www.facebook.com/enesagrogida/" target="_blank" rel="noopener noreferrer">
 									<i class="fa fa-facebook"></i>
-								</a>
-								<a href="https://www.instagram.com/alafistik/" target="_blank">
+								</Link>
+								<Link to="https://www.instagram.com/alafistik/" target="_blank" rel="noopener noreferrer">
 									<i class="fa fa-instagram"></i>
-								</a>
+								</Link>
 								<Link to="#">
 									<i className="fa fa-twitter"></i>
 								</Link>
