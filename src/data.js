@@ -61,8 +61,7 @@ const data = {
 			countInStock: 100,
 			brand: "Alâ Fıstık",
 
-			description: "Ürünlerimiz Gaziantep ve Şanlıurfa yöresinden toplanan ürünlerden oluşmaktadır. Çiftçilerimizden temin ettiğimiz ürünleri tesisimizde işleyerek satışa hazır hale getirmekteyiz. Doğrudan güneş ışığına maruz bırakmayınız. Ürünü kendi ambalajında 6ay boyunca saklayabilirsiniz. En iyi saklama için cam kavanoz içerisinde buzdolabında saklamanızı öneririz. Ürün son kullanma tarihi yasal sorunluluk sebebi ile altı ay veya bir yıl ile sınırlıdır fakat doğru bir saklama ile daha uzun süreler ürünlerimizi tüketebilirsiniz. Ürünün bozulduğunu küf veya güvelenme ile gözlemleyebilirsiniz. Gıda ürünlerini satın alırken üretici/depolama/satıcı firmalarının gıda kayıtlarının olması gerektiğini unutmayınız. Ürünümüz 1. kalite Kuru Kırmızı Kabuklu fıstıktır. YEDİKÇE TUTKUNUZ OLACAK.
-",
+			description: "Ürünlerimiz Gaziantep ve Şanlıurfa yöresinden toplanan ürünlerden oluşmaktadır. Çiftçilerimizden temin ettiğimiz ürünleri tesisimizde işleyerek satışa hazır hale getirmekteyiz. Doğrudan güneş ışığına maruz bırakmayınız. Ürünü kendi ambalajında 6ay boyunca saklayabilirsiniz. En iyi saklama için cam kavanoz içerisinde buzdolabında saklamanızı öneririz. Ürün son kullanma tarihi yasal sorunluluk sebebi ile altı ay veya bir yıl ile sınırlıdır fakat doğru bir saklama ile daha uzun süreler ürünlerimizi tüketebilirsiniz. Ürünün bozulduğunu küf veya güvelenme ile gözlemleyebilirsiniz. Gıda ürünlerini satın alırken üretici/depolama/satıcı firmalarının gıda kayıtlarının olması gerektiğini unutmayınız. Ürünümüz 1. kalite Kuru Kırmızı Kabuklu fıstıktır. YEDİKÇE TUTKUNUZ OLACAK.",
 			ingredients: ["Karbonhidrat: 272gr", "Protein: 202gr", "Yağ: 453gr", "Lif: 106gr"],
 			weight: "1000gr",
 			type: "Kabuklu Kırmızı Fıstık",
