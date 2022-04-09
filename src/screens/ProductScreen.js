@@ -152,12 +152,12 @@ export default function ProductScreen(props) {
 					<div className="zerogrid bottom-footer">
 						<div className="row">
 							<div className="bottom-social">
-								<Link to="#">
-									<i className="fa fa-facebook"></i>
-								</Link>
-								<Link to="#">
-									<i className="fa fa-instagram"></i>
-								</Link>
+								<a href="https://www.facebook.com/enesagrogida/" target="_blank">
+									<i class="fa fa-facebook"></i>
+								</a>
+								<a href="https://www.instagram.com/alafistik/" target="_blank">
+									<i class="fa fa-instagram"></i>
+								</a>
 								<Link to="#">
 									<i className="fa fa-twitter"></i>
 								</Link>
