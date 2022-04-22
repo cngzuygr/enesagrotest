@@ -18,7 +18,7 @@ const data = {
 			name: "Boz İç Fıstık 1 kg",
 			category: "Fıstık",
 			image: "/assets/product/boziccapraz.JPG",
-			price: 290,
+			price: 350,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
 
@@ -31,7 +31,7 @@ const data = {
 			name: "Meverdi İç Fıstık 1 kg",
 			category: "Fıstık",
 			image: "/assets/product/meverdicapraz.JPG",
-			price: 260,
+			price: 300,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
 
@@ -57,7 +57,7 @@ const data = {
 			name: "Ağaç Altı Kuru Kırmızı Fıstık 1 kg",
 			category: "Fıstık",
 			image: "/assets/product/bengcapraz.JPG",
-			price: 110,
+			price: 125,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
 
@@ -70,7 +70,7 @@ const data = {
 			name: "Pirinç İç Fıstık 1 kg",
 			category: "Fıstık",
 			image: "/assets/product/pirinccapraz.JPG",
-			price: 290,
+			price: 340,
 			countInStock: 100,
 			brand: "Alâq Fıstık",
 
@@ -83,7 +83,7 @@ const data = {
 			name: "File İç Fıstık 1 kg",
 			category: "Fıstık",
 			image: "/assets/product/filecapraz.JPG",
-			price: 290,
+			price: 340,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
 			rating: 4.5,
@@ -97,7 +97,7 @@ const data = {
 			name: "Boz Toz İç Fıstık 1 kg",
 			category: "Fıstık",
 			image: "/assets/product/anteptozcapraz.JPG",
-			price: 220,
+			price: 270,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
 
@@ -107,10 +107,10 @@ const data = {
 			type: "Boz Toz Fıstık",
 		},
 		{
-			name: "Kavrulmuş Naturel Fıstık 1 kg",
+			name: "Kavrulmuş Premium Fıstık 1 kg",
 			category: "Fıstık",
 			image: "/assets/product/kvrantepyatik2.JPG",
-			price: 124,
+			price: 165,
 			countInStock: 100,
 			brand: "Alâ Fıstık",
 
