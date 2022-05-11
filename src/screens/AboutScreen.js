@@ -96,72 +96,42 @@ export default function AboutScreen() {
 							<article className="post-entry single-post">
 								<div className="wrap-post">
 									<div className="entry-header">
-										<h1 className="entry-title">Misyonumuz</h1>
+										<h1 className="entry-title">Hakkımızda</h1>
 									</div>
 									<div className="entry-content">
 										<div className="excerpt">
 											<p>
-												Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-												Aenean laoreet justo et erat fringilla, eu egestas
-												libero accumsan. Vestibulum at commodo nisl. Morbi nec
-												pretium urna. Donec sollicitudin condimentum lectus.
-												Donec leo odio, facilisis eget mauris nec, pellentesque
-												accumsan quam. Aliquam vel ex in velit cursus efficitur
-												in eu nulla. Sed gravida mauris tellus, in vulputate
-												massa elementum faucibus.
+												1998 yılında babamızın başlattığı ‘’en kaliteli ürünleri uygun fiyata müşteriye sunma’’ ilkesiyle başlayıp 2022 yılında Alâ Fıstık markamızla, hizmet vermeye başladığı günden bu yana başta kuruyemiş olmak üzere, kuru meyve, lokum, bitkisel yağ ve aktar ürünlerini Türkiye’nin her yerindeki müşterilerine taze ve hızlı bir şekilde ulaştırmaktadır. Yeni mahsul ürünler, Nizip/Gaziantep’te bulunan Enes Agro Gıda ve markamız olan Alâ Fıstık entegre tesislerinde hijyen koşullarına uygun olarak el değmeden paketlenerek sizlere ulaştırılmak üzere yola çıkmaktadır. Müşteri memnuniyetini birinci önceliği kabul eden firmanın yeni dönemdeki hedefi, ürün yelpazesini genişleterek, tazelikten ve kaliteden ödün vermeden Türkiye’nin her noktasına gönderim yapmaya devam etmektir.
+				
 											</p>
 										</div>
 										<p>
-											Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-											sed diam nonumy eirmod tempor invidunt ut labore et dolore
-											magna aliquyam erat, sed diam voluptua. At vero eos et
-											accusam et justo duo dolores et ea rebum. Consetetur
-											sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-											ut labore et dolore magna aliquyam erat, sed diam
-											voluptua. At vero eos et accusam et justo duo dolores et
-											ea rebum.
+											Ailemizin fıstıkçılık işinde 2. kuşak üyeleri olarak atalarımızdan gelen bilgi ve tecrübeyi günümüz teknolojisiyle harmanlayıp, kaliteden ödün vermeden sağlıklı ürünler üretmek kalite politikamızın esasıdır. Enes Agro Gıda kalite anlayışı sadece üretim, satış ve pazarlama ile sınırlı değildir. Tüm çalışanları ile birlikte,toplumun isteklerine duyarlı bir yaklaşım ile cevap vermek vizyonuna sahiptir.
 										</p>
 										<blockquote>
 											<p>
-												Stet clita kasd gubergren, no sea takimata sanctus est
-												Lorem ipsum dolor sit amet vultatup duista.
+												Hiç bir zaman kendimiz yemediğimiz ürünü başkasına satmıyoruz.
 											</p>
 										</blockquote>
 										<p>
-											Duis autem vel eum iriure dolor in hendrerit in vulputate
-											velit esse molestie consequat, vel illum dolore eu feugiat
-											nulla facilisis at vero eros et accumsan et iusto odio
-											dignissim qui blandit praesent luptatum zzril.
+											Bunu gerçekleştirirken farkımız kendi değerlerimizi organizasyon yapımıza, ürünlerimize ve hizmetlerimize yansıtmamızdır. Çevremize duyduğumuz saygıyı ürünlerimize de yansıtarak bilinçli üretici olmayı, mükemmel ve üstün sonuçlara ulaşmayı hedeflemiş bulunmaktayız. İlkeli prensiplerimiz ve değer yargılarımız devamlılığı getirmiştir.
 										</p>
-										<h2>Başlık 1</h2>
+										<h2>Vizyonumuz</h2>
 										<p>
-											Ut wisi enim ad minim veniam, quis nostrud exerci tation
-											ullamcorper suscipit lobortis nisl ut aliquip ex ea
-											commodo consequat. Duis autem vel eum iriure dolor in
-											hendrerit in vulputate velit esse lorem ipsum dolor sit
-											amet.
+											Toplum ve ülke çıkarlarını göz önünde bulundurarak, kaliteden ödün vermeden Antep fıstığı’nı geniş kitlelere ileterek hakettiği yeri almasına katkı sağlayan, gelenekselliği yitirmeden yenilikçi yaklaşımımız, müşteri odaklı hizmet anlayışımızla örnek bir üretim merkezi olarak Türk ve dünya Fıstık pazarında söz sahibi olmaktır.
 										</p>
-										<h2>Başlık 2</h2>
+										<h2>İlkelerimiz</h2>
 										<p>
-											Ut wisi enim ad minim veniam, quis nostrud exerci tation
-											ullamcorper suscipit lobortis nisl ut aliquip ex ea
-											commodo consequat. Duis autem vel eum iriure dolor in
-											hendrerit in vulputate velit esse lorem ipsum dolor sit
-											amet.
+											Sağlık ve Çevreye Saygı; Toplumun yaşamını çok yakından ilgilendiren bir sektör olarak hijyenik çalışma ortamı sağlamaktayız. İçinde yaşadığı topluma katkıda bulunmak ve böylece yaşam kalitesini arttırmaya yardımcı olmak da Enes Agro Gıda'nın en önemli hedefleri arasındadır. Müşteri Memnuniyeti; Müşterilerimizin beklentilerine devamlılık gösteren bir çizgi ile cevap vererek, en lezzetli ve sağlıklı ürünleri sunarak, ürünlerimizin her daim güvenirliliğini hissettiriyoruz. Ürünlerimizde ve çalışma yöntemlerimizde yaratıcı ve yenilikçi olmayı hedefliyoruz.
 										</p>
 										<p>
-											Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-											sed diam nonumy eirmod tempor invidunt ut labore et dolore
-											magna aliquyam erat, sed diam voluptua. At vero eos et
-											accusam et justo duo dolores et ea rebum. Stet clita kasd
-											gubergren, no sea takimata sanctus est Lorem ipsum dolor
-											sit amet.
+											Etik Davranışlarımız; Çalışanlarımız ile birlikte, çevreye saygılı, dürüst, bir o kadarda dostane davranışlarda bulunarak, bugünü değil yarını düşünerek karar veriyoruz. Enes Agro Gıda teknolojiyi kullanarak yenilikçi fikirlerle, zamanında temiz, sağlıklı, güvenilir ürünler üreterek büyümeyi hedefleyen bir firmadır. Yurt içi ve yurt dışı pazarını takip ederek, gerekli yatırım ve donanımlarla tarım ürünleri pazarında yerini almaya devam edecektir.
 										</p>
 										<div className="note">
 											<ol>
-												<li>Lorem ipsum</li>
-												<li>Sit amet vultatup nonumy</li>
-												<li>Duista sed diam</li>
+												<li>Güvenilirlik</li>
+												<li>Saygınlık</li>
+												<li>Kaliteli Hizmet</li>
 											</ol>
 											<div className="clear"></div>
 										</div>
